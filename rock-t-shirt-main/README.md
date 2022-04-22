@@ -3,7 +3,7 @@
 Este es mi Proyecto Final para el curso de React JS de CoderHouse. Se trata de una tienda E-commerce de remeras de bandas de rock.
 
 La navegabilidad de este sitio permite entrar a una página principal:
-![screencapture-localhost-3000-2022-03-11-21_09_52](http://localhost:3000/)
+![screencapture-localhost-3000-2022-03-11-21_09_52]()
 
 
 Luego, se podrá acceder a una opción de filtrado de prodcutos por categoría, eligiendo entre Men, Women y un filtro por artista (por ejemplo, si se selecciona la opción "Queen" se mostrarán las remreras de esa banda tanto para hombre como para mujer):
@@ -19,5 +19,5 @@ La BBDD esta alojada en Firestore. Además, se utilizaron librerías de codigo a
 
 El siguiente GIF ejemplifica rápidamente una simulación de compra:
 
-![GIF_ProyectoFinal](https://github.com/Mariangdev/Poryecto-final-react/issues/7#issue-1211781092e)
+![ AwesomeScreenshot-4_22_2022.12_42_45AM.mp4 ](https://github.com/Mariangdev/Poryecto-final-react/issues/7#issue-1211781092)
 
