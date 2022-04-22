@@ -7,7 +7,7 @@ La navegabilidad de este sitio permite entrar a una página principal:
 
 
 Luego, se podrá acceder a una opción de filtrado de prodcutos por categoría, eligiendo entre Men, Women y un filtro por artista (por ejemplo, si se selecciona la opción "Queen" se mostrarán las remreras de esa banda tanto para hombre como para mujer):
-![screencapture-localhost-3000-artist-Queen-2022-03-11-21_16_35](http://localhost:3000/category/Men)
+![screencapture-localhost-3000-artist-Queen-2022-03-11-21_16_35](https://www.awesomescreenshot.com/video/8530965?key=4c203317430fa1def4fab472b78949e6)
 
 Una vez que accedemos a la vista de detalle, se puede elegir la cantidad por cada prodcuto (cada item tiene su stock individualizado). Ademas de elegir talle y color (esta no es una opción generada en la BBDD, sino que se asigna de manera genérica en el código, a los fines estéticos y funcionales del sitio):
 ![screencapture-localhost-3000-items-item-r8TgPgUKN1QdWHU52ztP-2022-03-11-21_20_21](http://localhost:3000/items/item/A0ocFh5eBAnriJ74mVya)
