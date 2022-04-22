@@ -19,5 +19,5 @@ La BBDD esta alojada en Firestore. Además, se utilizaron librerías de codigo a
 
 El siguiente GIF ejemplifica rápidamente una simulación de compra:
 
-![GIF_ProyectoFinal](https://www.awesomescreenshot.com/video/8530927?key=eeba72fb83b029b37d1f5a21dafa968e)
+![GIF_ProyectoFinal](https://github.com/Mariangdev/Poryecto-final-react/issues/7#issue-1211781092e)
 
